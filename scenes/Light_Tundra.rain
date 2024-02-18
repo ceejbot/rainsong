@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Rain version="1" lts="0" l1="110" l2="590" l3="810" adv="0" scn="Tundra Light">
+  <PARAM id="gldr" value="1.0"/>
+  <PARAM id="bgeq1x" value="0.5105999708175659"/>
+  <PARAM id="bgeq1y" value="0.765999972820282"/>
+  <PARAM id="bgeq2x" value="0.5532000064849854"/>
+  <PARAM id="bgeq2y" value="0.7871999740600586"/>
+  <PARAM id="bgeq3x" value="0.6383000016212463"/>
+  <PARAM id="bgeq3y" value="0.5744999647140503"/>
+  <PARAM id="bgpn" value="0.5"/>
+  <PARAM id="bgwi" value="1.0"/>
+  <PARAM id="eq1x" value="0.4944999814033508"/>
+  <PARAM id="eq1y" value="0.1428999900817871"/>
+  <PARAM id="eq2x" value="0.4065999984741211"/>
+  <PARAM id="eq2y" value="0.736299991607666"/>
+  <PARAM id="eq3x" value="0.4175999760627747"/>
+  <PARAM id="eq3y" value="0.7581999897956848"/>
+  <PARAM id="glgn" value="0.7583999633789062"/>
+  <PARAM id="glhp" value="0.0"/>
+  <PARAM id="gllp" value="0.0"/>
+  <PARAM id="glon" value="1.0"/>
+  <PARAM id="rfch" value="0.4254999756813049"/>
+  <PARAM id="rfdn" value="0.7233999967575073"/>
+  <PARAM id="rffc" value="0.5389999747276306"/>
+  <PARAM id="rfin" value="0.7163000106811523"/>
+  <PARAM id="spbl" value="0.5117999911308289"/>
+  <PARAM id="sppn" value="0.5"/>
+  <PARAM id="spwi" value="1.0"/>
+  <PARAM id="sucd" value="0.3643999993801117"/>
+  <PARAM id="supn" value="0.5"/>
+  <PARAM id="suwi" value="1.0"/>
+</Rain>

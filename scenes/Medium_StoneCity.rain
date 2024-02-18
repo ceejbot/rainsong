@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Rain version="1" lts="0" l1="120" l2="510" l3="840" adv="0" scn="Stone City Medium">
+  <PARAM id="gldr" value="1.0"/>
+  <PARAM id="bgeq1x" value="0.5532000064849854"/>
+  <PARAM id="bgeq1y" value="0.5105999708175659"/>
+  <PARAM id="bgeq2x" value="0.680899977684021"/>
+  <PARAM id="bgeq2y" value="0.765999972820282"/>
+  <PARAM id="bgeq3x" value="0.4467999935150146"/>
+  <PARAM id="bgeq3y" value="0.1489000022411346"/>
+  <PARAM id="bgpn" value="0.5"/>
+  <PARAM id="bgwi" value="1.0"/>
+  <PARAM id="eq1x" value="0.6703000068664551"/>
+  <PARAM id="eq1y" value="0.7142999768257141"/>
+  <PARAM id="eq2x" value="0.5494999885559082"/>
+  <PARAM id="eq2y" value="0.7142999768257141"/>
+  <PARAM id="eq3x" value="0.5823999643325806"/>
+  <PARAM id="eq3y" value="0.7472999691963196"/>
+  <PARAM id="glgn" value="0.7583999633789062"/>
+  <PARAM id="glhp" value="0.2439999878406525"/>
+  <PARAM id="gllp" value="0.04800000041723251"/>
+  <PARAM id="glon" value="1.0"/>
+  <PARAM id="rfch" value="0.7233999967575073"/>
+  <PARAM id="rfdn" value="0.7730000019073486"/>
+  <PARAM id="rffc" value="0.6028000116348267"/>
+  <PARAM id="rfin" value="0.936199963092804"/>
+  <PARAM id="spbl" value="0.4948999881744385"/>
+  <PARAM id="sppn" value="0.5"/>
+  <PARAM id="spwi" value="0.5526999831199646"/>
+  <PARAM id="sucd" value="0.4679999947547913"/>
+  <PARAM id="supn" value="0.5"/>
+  <PARAM id="suwi" value="1.0"/>
+</Rain>

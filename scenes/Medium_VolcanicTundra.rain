@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Rain version="1" lts="0" l1="150" l2="560" l3="970" adv="0" scn="Volcanic Tundra Medium">
+  <PARAM id="gldr" value="1.0"/>
+  <PARAM id="bgeq1x" value="0.8935999870300293"/>
+  <PARAM id="bgeq1y" value="0.5009999871253967"/>
+  <PARAM id="bgeq2x" value="0.7233999967575073"/>
+  <PARAM id="bgeq2y" value="0.680899977684021"/>
+  <PARAM id="bgeq3x" value="0.255299985408783"/>
+  <PARAM id="bgeq3y" value="0.5956999659538269"/>
+  <PARAM id="bgpn" value="0.5"/>
+  <PARAM id="bgwi" value="1.0"/>
+  <PARAM id="eq1x" value="0.8351999521255493"/>
+  <PARAM id="eq1y" value="0.8461999893188477"/>
+  <PARAM id="eq2x" value="0.7252999544143677"/>
+  <PARAM id="eq2y" value="0.5934000015258789"/>
+  <PARAM id="eq3x" value="0.3955999910831451"/>
+  <PARAM id="eq3y" value="0.318699985742569"/>
+  <PARAM id="glgn" value="0.3808999955654144"/>
+  <PARAM id="glhp" value="0.0989999994635582"/>
+  <PARAM id="gllp" value="0.0"/>
+  <PARAM id="glon" value="1.0"/>
+  <PARAM id="rfch" value="0.7730000019073486"/>
+  <PARAM id="rfdn" value="0.843999981880188"/>
+  <PARAM id="rffc" value="0.6240999698638916"/>
+  <PARAM id="rfin" value="0.7446999549865723"/>
+  <PARAM id="spbl" value="0.5371999740600586"/>
+  <PARAM id="sppn" value="0.6503999829292297"/>
+  <PARAM id="spwi" value="1.0"/>
+  <PARAM id="sucd" value="0.0"/>
+  <PARAM id="supn" value="0.3486999869346619"/>
+  <PARAM id="suwi" value="1.0"/>
+</Rain>

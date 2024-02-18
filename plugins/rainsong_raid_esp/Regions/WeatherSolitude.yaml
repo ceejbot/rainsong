@@ -1,0 +1,85 @@
+FormKey: 07042A:Skyrim.esm
+EditorID: WeatherSolitude
+MapColor: '#005B6877'
+Worldspace: 037EDF:Skyrim.esm
+RegionAreas:
+- EdgeFallOff: 0
+  RegionPointListData:
+  - -66733.67, 101521.67
+  - -66529.02, 115642.42
+  - -52612.92, 115847.07
+  - -47993.152, 107738.27
+  - -48135.277, 96936.92
+  - -58368.133, 97079.04
+Weather:
+  Priority: 50
+  Weathers:
+  - Weather: 00081A:Skyrim.esm
+    Chance: 36
+  - Weather: 012F89:Skyrim.esm
+    Chance: 20
+  - Weather: 000804:rainsong_raid.esp
+    Chance: 6
+  - Weather: 000809:rainsong_raid.esp
+    Chance: 4
+  - Weather: 10A234:Skyrim.esm
+    Chance: 5
+  - Weather: 10A235:Skyrim.esm
+    Chance: 5
+  - Weather: 10E1F1:Skyrim.esm
+    Chance: 5
+  - Weather: 10E1F2:Skyrim.esm
+    Chance: 5
+  - Weather: 000801:rainsong_raid.esp
+    Chance: 1
+  - Weather: 0298F0:RAID Weathers.esp
+    Chance: 2
+  - Weather: 0A6628:RAID Weathers.esp
+    Chance: 1
+  - Weather: 0A6634:RAID Weathers.esp
+    Chance: 10
+Map:
+  Flags:
+  - Override
+  Priority: 55
+  Name:
+    TargetLanguage: English
+    Value: Solitude
+Sounds:
+  Priority: 50
+  Sounds:
+  - Sound: 03C777:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.05
+  - Sound: 0D4044:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 1
+  - Sound: 0D4045:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.08
+  - Sound: 0D4046:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.08
+  - Sound: 0D42DC:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.04

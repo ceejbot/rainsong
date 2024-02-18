@@ -1,0 +1,5 @@
+backups/
+*.7z
+*bak*
+unused/
+formids.md

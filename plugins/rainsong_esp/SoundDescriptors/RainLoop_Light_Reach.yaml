@@ -1,0 +1,19 @@
+FormKey: 000804:rainsong.esp
+EditorID: RainLoop_Light_Reach
+FormVersion: 40
+Type: Standard
+Category: 07F80B:Skyrim.esm
+SoundFiles:
+- Data\Sound\FX\AMB\Weather\Rain\RainLoop_Light_Reach.wav
+OutputModel: 07EDCA:Skyrim.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x929126
+  Unknown2: 6156
+  Data:
+    MutagenObjectType: IsInInteriorConditionData
+LoopAndRumble:
+  Unknown: 4
+  Loop: Loop
+Priority: -128
+StaticAttenuation: 8.37

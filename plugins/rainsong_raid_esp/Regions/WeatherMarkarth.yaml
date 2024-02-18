@@ -1,0 +1,67 @@
+FormKey: 07042F:Skyrim.esm
+EditorID: WeatherMarkarth
+MapColor: '#00606073'
+Worldspace: 016D71:Skyrim.esm
+RegionAreas:
+- EdgeFallOff: 0
+  RegionPointListData:
+  - -168737.84, -3019.6582
+  - -183573.52, -3019.6582
+  - -183766.19, 11623.355
+  - -168545.17, 11623.355
+Weather:
+  Priority: 50
+  Weathers:
+  - Weather: 10A237:Skyrim.esm
+    Chance: 40
+  - Weather: 000803:rainsong_raid.esp
+    Chance: 12
+  - Weather: 10A239:Skyrim.esm
+    Chance: 6
+  - Weather: 10A23A:Skyrim.esm
+    Chance: 8
+  - Weather: 10E1E9:Skyrim.esm
+    Chance: 8
+  - Weather: 10E1EA:Skyrim.esm
+    Chance: 4
+  - Weather: 0298F5:RAID Weathers.esp
+    Chance: 2
+  - Weather: 0A6629:RAID Weathers.esp
+    Chance: 1
+  - Weather: 000808:rainsong_raid.esp
+    Chance: 4
+  - Weather: 0A6636:RAID Weathers.esp
+    Chance: 10
+  - Weather: 000806:rainsong_raid.esp
+    Chance: 5
+Map:
+  Flags:
+  - Override
+  Priority: 55
+  Name:
+    TargetLanguage: English
+    Value: Markarth
+Sounds:
+  Priority: 50
+  Sounds:
+  - Sound: 0D4044:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 1
+  - Sound: 0D4045:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.08
+  - Sound: 0D4046:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.08

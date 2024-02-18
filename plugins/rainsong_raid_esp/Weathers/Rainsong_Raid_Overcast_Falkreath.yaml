@@ -1,0 +1,748 @@
+FormKey: 000805:rainsong_raid.esp
+EditorID: Rainsong_Raid_Overcast_Falkreath
+CloudTextures:
+- Sky\OblivionCloudCloudyUpper01.dds
+- Sky\WastelandCloudHorizon01.dds
+- Sky\Alpha.dds
+- Sky\SkyrimClouds04.dds
+- {}
+- {}
+- {}
+- {}
+- Sky\SkyrimCloudsLower03.dds
+- Sky\SkyrimCloudsLower03.dds
+- Sky\SkyrimCloudsLower03.dds
+- Sky\SkyrimCloudsLower03.dds
+- {}
+- {}
+- {}
+- {}
+- {}
+- Sky\SkyrimCloudsHorizon01.dds
+- {}
+- {}
+- {}
+- {}
+- {}
+- Sky\SkyrimCloudsHorizon01.dds
+- Sky\SkyrimCloudsHorizon01.dds
+- {}
+- {}
+- Sky\SkyrimCloudsLower03.dds
+- Sky\SkyrimCloudsFill.dds
+LNAM: 0x1D000000
+Precipitation: 023C48:Skyrim.esm
+Clouds:
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: True
+  XSpeed: 0.02992126
+  YSpeed: 0.01023622
+  Colors:
+    Sunrise: '#00243245'
+    Day: '#005E6168'
+    Sunset: '#000E1218'
+    Night: '#00090C0F'
+  Alphas:
+    Sunrise: 0.5
+    Day: 0.5
+    Sunset: 0.2
+    Night: 0.2
+- Enabled: True
+  XSpeed: 0.02992126
+  YSpeed: 0.01023622
+  Colors:
+    Sunrise: '#00243245'
+    Day: '#005E6168'
+    Sunset: '#000E1218'
+    Night: '#00090C0F'
+  Alphas:
+    Sunrise: 0.5
+    Day: 0.5
+    Sunset: 0.2
+    Night: 0.2
+- Enabled: True
+  XSpeed: 0.02992126
+  YSpeed: 0.01023622
+  Colors:
+    Sunrise: '#00243245'
+    Day: '#005E6168'
+    Sunset: '#000E1218'
+    Night: '#00090C0F'
+  Alphas:
+    Sunrise: 0.5
+    Day: 0.5
+    Sunset: 0.2
+    Night: 0.2
+- Enabled: True
+  XSpeed: -0.02519685
+  YSpeed: 0.01023622
+  Colors:
+    Sunrise: '#00243245'
+    Day: '#005E6168'
+    Sunset: '#001E140A'
+    Night: '#00090C0F'
+  Alphas:
+    Sunrise: 0.5
+    Day: 0.5
+    Sunset: 0.1
+    Night: 0.2
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#008C96A0'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: True
+  XSpeed: 0.02519685
+  YSpeed: 0
+  Colors:
+    Sunrise: '#00121A28'
+    Day: '#0054575E'
+    Sunset: '#000C1015'
+    Night: '#00080C0E'
+  Alphas:
+    Sunrise: 0.6
+    Day: 0.8
+    Sunset: 0.8
+    Night: 0.2
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#008C96A0'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#00D2E6FF'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#008C96A0'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#008C96A0'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: True
+  XSpeed: 0.02519685
+  YSpeed: 0
+  Colors:
+    Sunrise: '#00121A28'
+    Day: '#0054575E'
+    Sunset: '#000C1015'
+    Night: '#00080C0E'
+  Alphas:
+    Sunrise: 0.6
+    Day: 0.8
+    Sunset: 0.8
+    Night: 0.2
+- Enabled: True
+  XSpeed: 0.02519685
+  YSpeed: 0
+  Colors:
+    Sunrise: '#00121A28'
+    Day: '#0054575E'
+    Sunset: '#000C1015'
+    Night: '#00080C0E'
+  Alphas:
+    Sunrise: 0.6
+    Day: 0.8
+    Sunset: 0.8
+    Night: 0.2
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#008C96A0'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#005A646E'
+    Day: '#008C96A0'
+    Sunset: '#002D3237'
+    Night: '#000A0F14'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: True
+  XSpeed: -0.02992126
+  YSpeed: 0.01023622
+  Colors:
+    Sunrise: '#0097ABCA'
+    Day: '#0097ABCA'
+    Sunset: '#0097ABCA'
+    Night: '#000D0D1E'
+  Alphas:
+    Sunrise: 0.5
+    Day: 0.5
+    Sunset: 0.8
+    Night: 0.3
+- Enabled: True
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#00546781'
+    Day: '#00546781'
+    Sunset: '#00546781'
+    Night: '#000C0C1B'
+  Alphas: {}
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#00000000'
+    Day: '#00000000'
+    Sunset: '#00000000'
+    Night: '#00000000'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#00000000'
+    Day: '#00000000'
+    Sunset: '#00000000'
+    Night: '#00000000'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#00000000'
+    Day: '#00000000'
+    Sunset: '#00000000'
+    Night: '#00000000'
+  Alphas:
+    Sunrise: 1
+    Day: 1
+    Sunset: 1
+    Night: 1
+SkyUpperColor:
+  Sunrise: '#0036465D'
+  Day: '#00686A6C'
+  Sunset: '#000A0E14'
+  Night: '#00090B0D'
+FogNearColor:
+  Sunrise: '#00141616'
+  Day: '#00282B2D'
+  Sunset: '#0027282E'
+  Night: '#00040B0D'
+UnknownColor:
+  Sunrise: '#00000000'
+  Day: '#00000000'
+  Sunset: '#00000000'
+  Night: '#00000000'
+AmbientColor:
+  Sunrise: '#00102330'
+  Day: '#003E4242'
+  Sunset: '#00232B34'
+  Night: '#0005080B'
+SunlightColor:
+  Sunrise: '#00302C25'
+  Day: '#00333537'
+  Sunset: '#002D363A'
+  Night: '#0007090B'
+SunColor:
+  Sunrise: '#00201B15'
+  Day: '#00000000'
+  Sunset: '#0040362A'
+  Night: '#00000000'
+StarsColor:
+  Sunrise: '#00000000'
+  Day: '#00FFFFFF'
+  Sunset: '#00000000'
+  Night: '#00000000'
+SkyLowerColor:
+  Sunrise: '#00253244'
+  Day: '#007B7F83'
+  Sunset: '#002A3340'
+  Night: '#0007090A'
+HorizonColor:
+  Sunrise: '#00060B0F'
+  Day: '#00676B70'
+  Sunset: '#00191C20'
+  Night: '#00060809'
+EffectLightingColor:
+  Sunrise: '#00828696'
+  Day: '#00B9C3CD'
+  Sunset: '#008296A0'
+  Night: '#00000306'
+CloudLodDiffuseColor:
+  Sunrise: '#00000000'
+  Day: '#00000000'
+  Sunset: '#00000000'
+  Night: '#00000000'
+CloudLodAmbientColor:
+  Sunrise: '#00000000'
+  Day: '#00000000'
+  Sunset: '#00000000'
+  Night: '#00000000'
+FogFarColor:
+  Sunrise: '#0014181F'
+  Day: '#00787B7F'
+  Sunset: '#00282B2E'
+  Night: '#00050607'
+SkyStaticsColor:
+  Sunrise: '#0035465B'
+  Day: '#007E818E'
+  Sunset: '#0046505F'
+  Night: '#00080D11'
+WaterMultiplierColor:
+  Sunrise: '#00525856'
+  Day: '#007B7B84'
+  Sunset: '#004D585E'
+  Night: '#00020609'
+SunGlareColor:
+  Sunrise: '#00604830'
+  Day: '#00000000'
+  Sunset: '#00604830'
+  Night: '#00000000'
+MoonGlareColor:
+  Sunrise: '#00000000'
+  Day: '#00000000'
+  Sunset: '#00000000'
+  Night: '#00000000'
+FogDistanceDayNear: 5000
+FogDistanceDayFar: 320000
+FogDistanceNightNear: 5000
+FogDistanceNightFar: 320000
+FogDistanceDayPower: 0.5
+FogDistanceNightPower: 0.5
+FogDistanceDayMax: 1
+FogDistanceNightMax: 1
+WindSpeed: 0.09803921568627451
+TransDelta: 680
+SunGlare: 0.058823529411764705
+SunDamage: 0.2980392156862745
+PrecipitationBeginFadeIn: 0.6
+PrecipitationEndFadeOut: 0.403921568627451
+ThunderLightningFrequency: 1
+Flags:
+- Rainy
+LightningColor: '#00000000'
+WindDirection: 0.119444445
+WindDirectionRange: 0.23888889
+Sounds:
+- Sound: 000803:rainsong.esp
+  Type:
+  - Default
+SkyStatics:
+- 01751E:Skyrim.esm
+- 01751F:Skyrim.esm
+- 017520:Skyrim.esm
+- 017521:Skyrim.esm
+- 02630D:Skyrim.esm
+- 02630E:Skyrim.esm
+- 027289:Skyrim.esm
+- 027299:Skyrim.esm
+- 0272A6:Skyrim.esm
+- 0272A8:Skyrim.esm
+- 0272AD:Skyrim.esm
+- 0272AE:Skyrim.esm
+- 0272AF:Skyrim.esm
+- 0272B0:Skyrim.esm
+- 0272B1:Skyrim.esm
+- 0272B2:Skyrim.esm
+- 0272B3:Skyrim.esm
+- 0272C4:Skyrim.esm
+- 0272CC:Skyrim.esm
+- 0272D3:Skyrim.esm
+- 0272DB:Skyrim.esm
+- 0272E5:Skyrim.esm
+- 02730F:Skyrim.esm
+- 027323:Skyrim.esm
+- 027338:Skyrim.esm
+- 027349:Skyrim.esm
+- 02738B:Skyrim.esm
+- 0273AB:Skyrim.esm
+- 0273AC:Skyrim.esm
+- 0273B0:Skyrim.esm
+- 0273B7:Skyrim.esm
+- 0273B8:Skyrim.esm
+- 0273BF:Skyrim.esm
+- 0273C1:Skyrim.esm
+- 0273D4:Skyrim.esm
+- 0273D9:Skyrim.esm
+- 0273DC:Skyrim.esm
+- 0273E0:Skyrim.esm
+- 0273E6:Skyrim.esm
+- 0273E8:Skyrim.esm
+- 0273E9:Skyrim.esm
+- 0273F3:Skyrim.esm
+- 0273F5:Skyrim.esm
+- 0273FA:Skyrim.esm
+- 0273FC:Skyrim.esm
+- 027408:Skyrim.esm
+- 02740C:Skyrim.esm
+- 02740F:Skyrim.esm
+- 027425:Skyrim.esm
+- 027426:Skyrim.esm
+- 027430:Skyrim.esm
+- 027432:Skyrim.esm
+- 027437:Skyrim.esm
+- 02743A:Skyrim.esm
+- 02743B:Skyrim.esm
+- 027447:Skyrim.esm
+- 02744C:Skyrim.esm
+- 02745A:Skyrim.esm
+- 02746E:Skyrim.esm
+- 027472:Skyrim.esm
+- 02747A:Skyrim.esm
+- 02747C:Skyrim.esm
+- 02747D:Skyrim.esm
+- 02747E:Skyrim.esm
+- 027481:Skyrim.esm
+- 027483:Skyrim.esm
+- 027499:Skyrim.esm
+- 0274A6:Skyrim.esm
+- 0274B5:Skyrim.esm
+- 0274B7:Skyrim.esm
+- 0274B8:Skyrim.esm
+- 02754F:Skyrim.esm
+- 10C48B:Skyrim.esm
+- 10C48C:Skyrim.esm
+- 10C48D:Skyrim.esm
+- 10C48E:Skyrim.esm
+- 10C48F:Skyrim.esm
+- 10C490:Skyrim.esm
+- 10C491:Skyrim.esm
+- 10C492:Skyrim.esm
+- 10C493:Skyrim.esm
+- 10C494:Skyrim.esm
+- 10C495:Skyrim.esm
+- 10C496:Skyrim.esm
+- 10C497:Skyrim.esm
+- 10C498:Skyrim.esm
+- 10C499:Skyrim.esm
+- 10C49A:Skyrim.esm
+- 10C49B:Skyrim.esm
+- 10C49C:Skyrim.esm
+- 10C49D:Skyrim.esm
+- 10C49E:Skyrim.esm
+- 10C49F:Skyrim.esm
+- 10C4A0:Skyrim.esm
+- 10C4A1:Skyrim.esm
+- 10C4A2:Skyrim.esm
+- 10C4A3:Skyrim.esm
+- 10C4A4:Skyrim.esm
+- 10C4A5:Skyrim.esm
+- 10C4A6:Skyrim.esm
+- 10C4A7:Skyrim.esm
+- 10C4A8:Skyrim.esm
+- 10C4A9:Skyrim.esm
+- 10C4AA:Skyrim.esm
+- 10C4AB:Skyrim.esm
+- 10C4AC:Skyrim.esm
+- 10C4AD:Skyrim.esm
+- 10C4AE:Skyrim.esm
+- 10C4AF:Skyrim.esm
+- 10C4B0:Skyrim.esm
+- 10C4B1:Skyrim.esm
+- 10C4B2:Skyrim.esm
+- 10C4B3:Skyrim.esm
+- 10C4B4:Skyrim.esm
+- 10C4B5:Skyrim.esm
+- 10C4B6:Skyrim.esm
+- 10C4B7:Skyrim.esm
+- 10C4B8:Skyrim.esm
+- 10C4B9:Skyrim.esm
+- 10C4BA:Skyrim.esm
+- 10C4BB:Skyrim.esm
+- 10C4BC:Skyrim.esm
+- 10C4BD:Skyrim.esm
+- 10C4BE:Skyrim.esm
+- 10C4BF:Skyrim.esm
+- 10C4C0:Skyrim.esm
+- 10C4C1:Skyrim.esm
+- 10C4C2:Skyrim.esm
+- 10C4C3:Skyrim.esm
+- 10C4C4:Skyrim.esm
+- 10C4C5:Skyrim.esm
+- 10C4C6:Skyrim.esm
+- 10C4C7:Skyrim.esm
+- 10C4C8:Skyrim.esm
+- 10C4C9:Skyrim.esm
+- 10C4CA:Skyrim.esm
+- 10C4CB:Skyrim.esm
+- 10C4CC:Skyrim.esm
+- 10C4CD:Skyrim.esm
+- 10C4CE:Skyrim.esm
+- 10C4CF:Skyrim.esm
+- 10C4D0:Skyrim.esm
+- 10C4D1:Skyrim.esm
+- 10C4D2:Skyrim.esm
+ImageSpaces:
+  Sunrise: 0C820F:Skyrim.esm
+  Day: 0C8210:Skyrim.esm
+  Sunset: 0C8211:Skyrim.esm
+  Night: 0C8212:Skyrim.esm
+VolumetricLighting:
+  Sunrise: 000D5F:Update.esm
+  Day: 000D5D:Update.esm
+  Sunset: 000D60:Update.esm
+  Night: 000D5E:Update.esm
+DirectionalAmbientLightingColors:
+  Sunrise:
+    DirectionalXPlus: '#00263239'
+    DirectionalXMinus: '#00263239'
+    DirectionalYPlus: '#00263239'
+    DirectionalYMinus: '#00263239'
+    DirectionalZPlus: '#00141E39'
+    DirectionalZMinus: '#00375178'
+    Specular: '#00000000'
+    Scale: 1
+  Day:
+    DirectionalXPlus: '#00373635'
+    DirectionalXMinus: '#00373635'
+    DirectionalYPlus: '#00373635'
+    DirectionalYMinus: '#00373635'
+    DirectionalZPlus: '#004C4A48'
+    DirectionalZMinus: '#00A39F9C'
+    Specular: '#00000000'
+    Scale: 1
+  Sunset:
+    DirectionalXPlus: '#001C2124'
+    DirectionalXMinus: '#001C2124'
+    DirectionalYPlus: '#001C2124'
+    DirectionalYMinus: '#001C2124'
+    DirectionalZPlus: '#001C2124'
+    DirectionalZMinus: '#004A5760'
+    Specular: '#00000000'
+    Scale: 1
+  Night:
+    DirectionalXPlus: '#00090A0B'
+    DirectionalXMinus: '#00090A0B'
+    DirectionalYPlus: '#00090A0B'
+    DirectionalYMinus: '#00090A0B'
+    DirectionalZPlus: '#0007090B'
+    DirectionalZMinus: '#0009161E'
+    Specular: '#00000000'
+    Scale: 1

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Rain version="1" lts="0" l1="110" l2="550" l3="890" adv="1" scn="The Reach Light">
+  <PARAM id="gldr" value="1.0"/>
+  <PARAM id="bgeq1x" value="0.468099981546402"/>
+  <PARAM id="bgeq1y" value="0.8084999918937683"/>
+  <PARAM id="bgeq2x" value="0.5105999708175659"/>
+  <PARAM id="bgeq2y" value="0.6169999837875366"/>
+  <PARAM id="bgeq3x" value="0.5318999886512756"/>
+  <PARAM id="bgeq3y" value="0.4043000042438507"/>
+  <PARAM id="bgpn" value="0.5"/>
+  <PARAM id="bgwi" value="1.0"/>
+  <PARAM id="eq1x" value="0.5164999961853027"/>
+  <PARAM id="eq1y" value="0.7691999673843384"/>
+  <PARAM id="eq2x" value="0.6484000086784363"/>
+  <PARAM id="eq2y" value="0.7802000045776367"/>
+  <PARAM id="eq3x" value="0.5385000109672546"/>
+  <PARAM id="eq3y" value="0.7911999821662903"/>
+  <PARAM id="glgn" value="0.3808999955654144"/>
+  <PARAM id="glhp" value="0.0"/>
+  <PARAM id="gllp" value="0.0"/>
+  <PARAM id="glon" value="1.0"/>
+  <PARAM id="rfch" value="0.5105999708175659"/>
+  <PARAM id="rfdn" value="0.382999986410141"/>
+  <PARAM id="rffc" value="0.6879000067710876"/>
+  <PARAM id="rfin" value="0.5602999925613403"/>
+  <PARAM id="spbl" value="0.483599990606308"/>
+  <PARAM id="sppn" value="0.5"/>
+  <PARAM id="spwi" value="1.0"/>
+  <PARAM id="sucd" value="0.3585000038146973"/>
+  <PARAM id="supn" value="0.5"/>
+  <PARAM id="suwi" value="1.0"/>
+</Rain>

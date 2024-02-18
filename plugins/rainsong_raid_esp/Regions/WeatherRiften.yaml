@@ -1,0 +1,275 @@
+FormKey: 07042E:Skyrim.esm
+EditorID: WeatherRiften
+MapColor: '#009D6935'
+Worldspace: 016BB4:Skyrim.esm
+RegionAreas:
+- EdgeFallOff: 0
+  RegionPointListData:
+  - 167677.55, -89362.14
+  - 167677.55, -102686.34
+  - 180430.7, -102686.34
+  - 180430.7, -89362.14
+Weather:
+  Priority: 50
+  Weathers:
+  - Weather: 10A23B:Skyrim.esm
+    Chance: 35
+  - Weather: 10A23C:Skyrim.esm
+    Chance: 4
+  - Weather: 10A23D:Skyrim.esm
+    Chance: 12
+  - Weather: 10A23F:Skyrim.esm
+    Chance: 15
+  - Weather: 10E1EB:Skyrim.esm
+    Chance: 2
+  - Weather: 10E1EC:Skyrim.esm
+    Chance: 3
+  - Weather: 10FE7E:Skyrim.esm
+    Chance: 15
+  - Weather: 0298F6:RAID Weathers.esp
+    Chance: 1
+  - Weather: 0A662A:RAID Weathers.esp
+    Chance: 1
+  - Weather: 0A6632:RAID Weathers.esp
+    Chance: 12
+Map:
+  Flags:
+  - Override
+  Priority: 55
+  Name:
+    TargetLanguage: English
+    Value: Riften
+Sounds:
+  Priority: 50
+  Sounds:
+  - Sound: 03C777:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.05
+  - Sound: 04045F:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040465:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 04046B:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 0404F9:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040A60:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040AD6:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040AE2:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040AEA:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040AF0:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040AF8:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040AFE:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040B74:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040D2E:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040D74:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040D7A:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040D80:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040D86:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5E1:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 1
+  - Sound: 08D5E2:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5E4:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5E6:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5E8:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5EA:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5EC:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5EE:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5F0:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5F2:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5F4:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.03
+  - Sound: 08D5F6:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.03
+  - Sound: 08D5F8:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.03
+  - Sound: 08F3DD:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.08
+  - Sound: 08F3DE:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.08

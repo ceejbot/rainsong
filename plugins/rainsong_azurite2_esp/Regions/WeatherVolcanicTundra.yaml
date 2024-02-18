@@ -1,0 +1,117 @@
+FormKey: 0C5854:Skyrim.esm
+EditorID: WeatherVolcanicTundra
+FormVersion: 40
+MapColor: '#00605C48'
+Worldspace: 00003C:Skyrim.esm
+RegionAreas:
+- EdgeFallOff: 0
+  RegionPointListData:
+  - 119000.125, 15282.574
+  - 109382.22, 755.7031
+  - 109382.22, -6029.965
+  - 101324.234, -7726.383
+  - 101112.19, -15572.309
+  - 105565.266, -21509.77
+  - 105493.65, -33081.844
+  - 111289.7, -33379.9
+  - 119488.36, -33516.54
+  - 122904.45, -37752.508
+  - 131786.31, -37615.867
+  - 139438.4, -33516.547
+  - 143947.67, -33516.55
+  - 155835.69, -29280.578
+  - 160618.23, -24907.965
+  - 160481.6, -15616.164
+  - 156245.62, -11380.195
+  - 153512.73, -9057.244
+  - 152282.94, -3181.5469
+  - 148183.61, 5153.748
+  - 142034.62, 10619.516
+  - 137525.38, 15128.773
+  - 135612.36, 21414.402
+  - 128732.36, 23902.559
+Weather:
+  Flags:
+  - Override
+  Priority: 53
+  Weathers:
+  - Weather: 10A7A5:Skyrim.esm
+    Chance: 30
+  - Weather: 10A7A6:Skyrim.esm
+    Chance: 5
+  - Weather: 10A7A7:Skyrim.esm
+    Chance: 15
+  - Weather: 10A7A8:Skyrim.esm
+    Chance: 40
+  - Weather: 10E1E3:Skyrim.esm
+    Chance: 5
+  - Weather: 10E1E4:Skyrim.esm
+    Chance: 5
+  - Weather: 00015E:Skyrim.esm
+    Global: 238EDB:Azurite Weathers II.esp
+  - Weather: 02E7AB:Skyrim.esm
+    Global: 238EDB:Azurite Weathers II.esp
+  - Weather: 10A7A6:Skyrim.esm
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 10A7A6:Skyrim.esm
+    Global: 1D8BC9:Azurite Weathers II.esp
+  - Weather: 10A7A7:Skyrim.esm
+    Global: 1D8BC9:Azurite Weathers II.esp
+  - Weather: 10E3D4:Skyrim.esm
+    Global: 238EDB:Azurite Weathers II.esp
+  - Weather: 000816:rainsong_azurite2.esp
+    Global: 238EDC:Azurite Weathers II.esp
+Sounds:
+  Flags:
+  - Override
+  Priority: 51
+  Music: 06D546:Skyrim.esm
+  Sounds:
+  - Sound: 0AA809:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.08
+  - Sound: 0AA80A:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.07
+  - Sound: 0D2066:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.07
+  - Sound: 0D2067:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.07
+  - Sound: 0D206D:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    Chance: 0.08
+  - Sound: 0D4044:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 1
+  - Sound: 019CA4:Dawnguard.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.05

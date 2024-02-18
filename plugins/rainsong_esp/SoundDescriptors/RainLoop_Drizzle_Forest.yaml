@@ -1,0 +1,19 @@
+FormKey: 000812:rainsong.esp
+EditorID: RainLoop_Drizzle_Forest
+FormVersion: 40
+Type: Standard
+Category: 07F80B:Skyrim.esm
+SoundFiles:
+- fx\amb\weather\rain\RainLoop_Drizzle_Forest.wav
+OutputModel: 07EDCA:Skyrim.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x908635
+  Unknown2: 6156
+  Data:
+    MutagenObjectType: IsInInteriorConditionData
+LoopAndRumble:
+  Unknown: 4
+  Loop: Loop
+Priority: -128
+StaticAttenuation: 14.1
