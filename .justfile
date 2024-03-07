@@ -6,10 +6,11 @@ serialize:
 	~/bin/spriggit serialize -d --InputPath data/rainsong.esp --OutputPath ./plugins/rainsong_esp/ --GameRelease SkyrimSE --PackageName Spriggit.Yaml
 	~/bin/spriggit serialize --InputPath data/rainsong_azurite2.esp --OutputPath ./plugins/rainsong_azurite2_esp/ --GameRelease SkyrimSE --PackageName Spriggit.Yaml
 	~/bin/spriggit serialize --InputPath data/rainsong_raid.esp --OutputPath ./plugins/rainsong_raid_esp/ --GameRelease SkyrimSE --PackageName Spriggit.Yaml
+	~/bin/spriggit serialize --InputPath data/rainsong_azurite_expansion.esp --OutputPath ./plugins/rainsong_azurite_expansion/ --GameRelease SkyrimSE --PackageName Spriggit.Yaml
 
 # Re-hydrate a specific plugin from yaml.
 hydrate P="rainsong":
-	~/bin/spriggit deserialize --InputPath ./{{P}}-esp --OutputPath ./data/{{P}}.esp
+	~/bin/spriggit deserialize --InputPath ./{{P}} --OutputPath ./data/{{P}}.esp
 
 # make 7z archive
 archive:

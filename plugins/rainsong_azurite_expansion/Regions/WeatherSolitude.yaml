@@ -1,0 +1,109 @@
+FormKey: 07042A:Skyrim.esm
+EditorID: WeatherSolitude
+MapColor: '#005B6877'
+Worldspace: 037EDF:Skyrim.esm
+RegionAreas:
+- EdgeFallOff: 0
+  RegionPointListData:
+  - -66733.67, 101521.67
+  - -66529.02, 115642.42
+  - -52612.92, 115847.07
+  - -47993.152, 107738.27
+  - -48135.277, 96936.92
+  - -58368.133, 97079.04
+Weather:
+  Priority: 50
+  Weathers:
+  - Weather: 00015E:Skyrim.esm
+    Global: 238EDB:Azurite Weathers II.esp
+  - Weather: 00081A:Skyrim.esm
+    Chance: 35
+  - Weather: 012F89:Skyrim.esm
+    Chance: 40
+  - Weather: 02E7AB:Skyrim.esm
+    Global: 238EDB:Azurite Weathers II.esp
+  - Weather: 000808:rainsong_azurite_expansion.esp
+    Chance: 5
+  - Weather: 000808:rainsong_azurite_expansion.esp
+    Global: 1D8BC9:Azurite Weathers II.esp
+  - Weather: 000808:rainsong_azurite_expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 000809:rainsong_azurite_expansion.esp
+    Chance: 5
+  - Weather: 000809:rainsong_azurite_expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 000809:rainsong_azurite_expansion.esp
+    Global: 1D8BC9:Azurite Weathers II.esp
+  - Weather: 10A235:Skyrim.esm
+    Chance: 5
+  - Weather: 10A235:Skyrim.esm
+    Global: 1D8BC9:Azurite Weathers II.esp
+  - Weather: 10E1F1:Skyrim.esm
+    Chance: 5
+  - Weather: 10E1F2:Skyrim.esm
+    Chance: 5
+  - Weather: 10E3D4:Skyrim.esm
+    Global: 238EDB:Azurite Weathers II.esp
+  - Weather: 000801:Azurite II - Weathers Expansion.esp
+    Global: 238EDB:Azurite Weathers II.esp
+  - Weather: 00080C:Azurite II - Weathers Expansion.esp
+    Chance: 15
+  - Weather: 00080D:Azurite II - Weathers Expansion.esp
+    Chance: 15
+  - Weather: 00080D:Azurite II - Weathers Expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 00080E:Azurite II - Weathers Expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 000812:Azurite II - Weathers Expansion.esp
+    Chance: 5
+  - Weather: 000813:rainsong_azurite_expansion.esp
+    Chance: 5
+  - Weather: 000813:rainsong_azurite_expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 000815:rainsong_azurite_expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+Map:
+  Flags:
+  - Override
+  Priority: 55
+  Name:
+    TargetLanguage: English
+    Value: Solitude
+Sounds:
+  Priority: 50
+  Sounds:
+  - Sound: 03C777:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.05
+  - Sound: 0D4044:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 1
+  - Sound: 0D4045:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.08
+  - Sound: 0D4046:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.08
+  - Sound: 0D42DC:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.04

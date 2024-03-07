@@ -1,0 +1,319 @@
+FormKey: 07042E:Skyrim.esm
+EditorID: WeatherRiften
+MapColor: '#009D6935'
+Worldspace: 016BB4:Skyrim.esm
+RegionAreas:
+- EdgeFallOff: 0
+  RegionPointListData:
+  - 167677.55, -89362.14
+  - 167677.55, -102686.34
+  - 180430.7, -102686.34
+  - 180430.7, -89362.14
+Weather:
+  Priority: 50
+  Weathers:
+  - Weather: 00015E:Skyrim.esm
+    Global: 238EDB:Azurite Weathers II.esp
+  - Weather: 02E7AB:Skyrim.esm
+    Global: 238EDB:Azurite Weathers II.esp
+  - Weather: 00080C:rainsong_azurite_expansion.esp
+    Global: 1D8BC9:Azurite Weathers II.esp
+  - Weather: 00080C:rainsong_azurite_expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 10A23B:Skyrim.esm
+    Chance: 5
+  - Weather: 00080D:rainsong_azurite_expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 00080D:rainsong_azurite_expansion.esp
+    Global: 1D8BC9:Azurite Weathers II.esp
+  - Weather: 00080D:rainsong_azurite_expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 00080C:rainsong_azurite_expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 00080C:rainsong_azurite_expansion.esp
+    Global: 1D8BC9:Azurite Weathers II.esp
+  - Weather: 00080C:rainsong_azurite_expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 10A23E:Skyrim.esm
+    Global: 1D8BC9:Azurite Weathers II.esp
+  - Weather: 10A23E:Skyrim.esm
+    Global: 1D8BC9:Azurite Weathers II.esp
+  - Weather: 10A23F:Skyrim.esm
+    Chance: 35
+  - Weather: 10E1EB:Skyrim.esm
+    Chance: 5
+  - Weather: 10E1EC:Skyrim.esm
+    Chance: 5
+  - Weather: 10E3D4:Skyrim.esm
+    Global: 238EDB:Azurite Weathers II.esp
+  - Weather: 10FE7E:Skyrim.esm
+    Chance: 90
+  - Weather: 10FE7E:Skyrim.esm
+    Global: 1D8BC9:Azurite Weathers II.esp
+  - Weather: 00080D:Azurite II - Weathers Expansion.esp
+    Chance: 10
+  - Weather: 00080E:Azurite II - Weathers Expansion.esp
+    Chance: 10
+  - Weather: 00080E:Azurite II - Weathers Expansion.esp
+    Global: 1D8BC9:Azurite Weathers II.esp
+  - Weather: 00080E:Azurite II - Weathers Expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 000801:rainsong_azurite_expansion.esp
+    Chance: 3
+  - Weather: 000810:rainsong_azurite_expansion.esp
+    Chance: 5
+  - Weather: 000810:rainsong_azurite_expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 000961:Azurite II - Weathers Expansion.esp
+    Chance: 5
+  - Weather: 000961:Azurite II - Weathers Expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 000961:Azurite II - Weathers Expansion.esp
+    Global: 238EDB:Azurite Weathers II.esp
+  - Weather: 000962:Azurite II - Weathers Expansion.esp
+    Chance: 5
+  - Weather: 000962:Azurite II - Weathers Expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 000818:rainsong_azurite_expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+Map:
+  Flags:
+  - Override
+  Priority: 55
+  Name:
+    TargetLanguage: English
+    Value: Riften
+Sounds:
+  Priority: 50
+  Sounds:
+  - Sound: 03C777:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.05
+  - Sound: 04045F:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040465:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 04046B:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 0404F9:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040A60:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040AD6:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040AE2:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040AEA:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040AF0:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040AF8:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040AFE:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040B74:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040D2E:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040D74:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040D7A:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040D80:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 040D86:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5E1:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 1
+  - Sound: 08D5E2:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5E4:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5E6:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5E8:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5EA:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5EC:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5EE:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5F0:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5F2:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.02
+  - Sound: 08D5F4:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.03
+  - Sound: 08D5F6:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.03
+  - Sound: 08D5F8:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.03
+  - Sound: 08F3DD:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.08
+  - Sound: 08F3DE:Skyrim.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    - Snowy
+    Chance: 0.08

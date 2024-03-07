@@ -1,10 +1,10 @@
-A Skyrim mod that extends [Azurite II weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731) and [RAID weathers](https://www.nexusmods.com/skyrimspecialedition/mods/63116) to enhance rain sounds with regional variations as well as intensity variations.
+A Skyrim mod that extends [Azurite II weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731), [Azurite Weathers II -- Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/111269), and [RAID weathers](https://www.nexusmods.com/skyrimspecialedition/mods/63116) to enhance rain sounds with regional variations as well as intensity variations.
 
 I love the sound of rain in Skyrim. I love sheltering in a tent, lighting a campfire, and waiting out a storm. But it never sounds right to me! I decided to do something about it. The new rain loops were synthesized with a VST plugin. They're all 8 seconds long and stereo. They make a great base for layering on field recordings of thunder, wind, and closer-range rain sounds.
 
 ## What the mod does
 
-This mod adds new rain weathers to Azurite2 and RAID to set up regionally distinct sound loops. It does not use any scripts, so it is safe to add and remove any time you want.
+This mod adds new rain weathers to Azurite2 and RAID to set up regionally distinct sound loops. It does not use any scripts, so it is safe to add and remove any time you want. To be safe, you might want to be indoors or force the weather to a vanilla weather before you remove any weather mod that adds weathers.
 
 These are the vanilla rain weathers and which regions use them:
 
@@ -72,13 +72,17 @@ Here are the sounds the mod makes available:
 
 The Azurite expansion adds 11 weathers, supplying overcast and storm variations for the vanilla regions that re-use weathers. All rain weathers have their sounds tweaked to use the new loops, with thunder removed completely from overcast weathers. Overcast weathers use the regular Cathedral precipitation particle, and storms use the storm particle. There are no drizzles.
 
+### Azurite 2 Expansion edits
+
+A2E adds drizzles, misty rains, sun showers, and new rain particles to the base of Azurite 2. It already makes some of the same changes to Azurite 2 that Rainsong makes. All of its regional weathers got region-appropriate sounds. Its new weathers without regions were copied into regional variations that differ only by sound. This is the most varied weather mod I've looked at yet!
+
 ### RAID edits
 
-The RAID expansion adds four new drizzles, four overcasts, and five storm variations. The existing rain weathers have had their sounds tweaked to use the new loops.
+The RAID expansion adds four new drizzles, four overcasts, and five storm variations. The existing rain weathers have had their sounds tweaked to use the new loops. This weather mod is a sleeper that looks great with Community Shaders and a touch of Reshade color grading on top.
 
 ### Other weather mods
 
-I'd be happy to look at weather mods with permissions that edits. You can also do this yourself!
+I'd be happy to look at weather mods with permissions that allow edits. You can also do this yourself!
 
 The best way to edit new weather mods to use these sounds is to use the `rainsong.esp` plugin as a master. It defines the new sounds and nothing more. Then you can look at the weather mod you want to extend in SSEdit. Copy the existing rainy weather records as overrides into your new plugin. For weather/region combinations that the mod doesn't already cover, copy existing regional weathers as _new_ records. When in doubt, start with the weather that has the visual design appropriate for that region and make a copy of that. Give it a name that includes the intensity and the region.
 

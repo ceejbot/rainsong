@@ -1,0 +1,25 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Skyrim
+  Version: 0.16.0
+ModKey: rainsong_azurite_expansion.esp
+GameRelease: SkyrimSE
+ModHeader:
+  Flags:
+  - Light
+  Stats:
+    NumRecords: 57
+    NextFormID: 2075
+  Author: ''
+  MasterReferences:
+  - Master: Skyrim.esm
+    FileSize: 0
+  - Master: Update.esm
+    FileSize: 0
+  - Master: Dawnguard.esm
+    FileSize: 0
+  - Master: Azurite Weathers II.esp
+    FileSize: 0
+  - Master: Azurite II - Weathers Expansion.esp
+    FileSize: 0
+  - Master: rainsong.esp
+    FileSize: 0
