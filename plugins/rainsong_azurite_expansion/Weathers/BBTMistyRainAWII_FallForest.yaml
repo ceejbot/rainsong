@@ -432,7 +432,7 @@ Clouds:
     Night: 1
 SkyUpperColor:
   Sunrise: '#00414A54'
-  Day: '#00969FA9'
+  Day: '#006A6A6A'
   Sunset: '#00313539'
   Night: '#00000000'
 FogNearColor:
@@ -441,10 +441,10 @@ FogNearColor:
   Sunset: '#00263244'
   Night: '#000A0B0C'
 UnknownColor:
-  Sunrise: '#004E4D42'
-  Day: '#00BFCAC6'
-  Sunset: '#00696661'
-  Night: '#0014252B'
+  Sunrise: '#00000000'
+  Day: '#00000000'
+  Sunset: '#00000000'
+  Night: '#00000000'
 AmbientColor:
   Sunrise: '#00B0AFAE'
   Day: '#00AFAFAF'
@@ -456,25 +456,25 @@ SunlightColor:
   Sunset: '#008D7E72'
   Night: '#00000000'
 SunColor:
-  Sunrise: '#00433112'
-  Day: '#00151515'
-  Sunset: '#00551700'
+  Sunrise: '#00BFBFBF'
+  Day: '#00000000'
+  Sunset: '#00000000'
   Night: '#00000000'
 StarsColor:
   Sunrise: '#00000000'
   Day: '#00000000'
   Sunset: '#00000000'
-  Night: '#00FFFFFF'
+  Night: '#00000000'
 SkyLowerColor:
-  Sunrise: '#00849FBB'
-  Day: '#00B9BFC6'
-  Sunset: '#004A5460'
-  Night: '#000A0B0C'
+  Sunrise: '#00393D46'
+  Day: '#00949494'
+  Sunset: '#0070738A'
+  Night: '#000D0F11'
 HorizonColor:
-  Sunrise: '#00E9E0D6'
-  Day: '#009DAAB7'
-  Sunset: '#00A28F88'
-  Night: '#000A0B0C'
+  Sunrise: '#002E323D'
+  Day: '#003F3F3F'
+  Sunset: '#006E708F'
+  Night: '#000C0F12'
 EffectLightingColor:
   Sunrise: '#00AAAAAA'
   Day: '#007F7F7F'
@@ -494,17 +494,17 @@ FogFarColor:
   Sunrise: '#0063778B'
   Day: '#00A2AAB3'
   Sunset: '#00434852'
-  Night: '#000A0B0C'
+  Night: '#001A1C1E'
 SkyStaticsColor:
-  Sunrise: '#009CA4AB'
-  Day: '#00D4D4D4'
-  Sunset: '#00AEB4BB'
-  Night: '#002D3339'
+  Sunrise: '#006B696B'
+  Day: '#007A7A7A'
+  Sunset: '#00565758'
+  Night: '#000D1216'
 WaterMultiplierColor:
-  Sunrise: '#002F5955'
-  Day: '#00133732'
-  Sunset: '#00132D23'
-  Night: '#0015352E'
+  Sunrise: '#00555B64'
+  Day: '#0050565A'
+  Sunset: '#006A7795'
+  Night: '#000F141A'
 SunGlareColor:
   Sunrise: '#004E2807'
   Day: '#002B2320'
@@ -516,12 +516,11 @@ MoonGlareColor:
   Sunset: '#007D5B42'
   Night: '#00FFB595'
 FogDistanceDayFar: 15000
-FogDistanceNightNear: 500
-FogDistanceNightFar: 15000
+FogDistanceNightFar: 100000
 FogDistanceDayPower: 0.95
-FogDistanceNightPower: 0.6
+FogDistanceNightPower: 0.3
 FogDistanceDayMax: 0.8
-FogDistanceNightMax: 0.95
+FogDistanceNightMax: 0.9
 WindSpeed: 0.39215686274509803
 TransDelta: 1000
 SunGlare: 0.9411764705882353

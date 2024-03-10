@@ -1,5 +1,5 @@
-FormKey: 000808:rainsong_azurite_expansion.esp
-EditorID: RS_Rain_Overcast_Solitude
+FormKey: 00080C:rainsong_azurite_expansion.esp
+EditorID: SkyrimOvercastRain_Riften
 CloudTextures:
 - Sky\OblivionCloudCloudyUpper01.dds
 - Sky\WastelandCloudHorizon01.dds
@@ -31,7 +31,7 @@ CloudTextures:
 - Sky\SkyrimCloudsLower03.dds
 - Sky\SkyrimCloudsFill.dds
 LNAM: 0x1D000000
-Precipitation: 16443E:Azurite Weathers II.esp
+Precipitation: 00080B:Azurite II - Weathers Expansion.esp
 Clouds:
 - Enabled: False
   XSpeed: 0
@@ -232,7 +232,7 @@ Clouds:
     Sunrise: '#005C7496'
     Day: '#005C7496'
     Sunset: '#005C7496'
-    Night: '#000F1720'
+    Night: '#00071627'
   Alphas:
     Sunrise: 0.2
     Day: 0.2
@@ -297,7 +297,7 @@ Clouds:
     Sunrise: '#005C7496'
     Day: '#005C7496'
     Sunset: '#005C7496'
-    Night: '#000F1720'
+    Night: '#00071627'
   Alphas:
     Sunrise: 0.2
     Day: 0.2
@@ -310,7 +310,7 @@ Clouds:
     Sunrise: '#005C7496'
     Day: '#005C7496'
     Sunset: '#005C7496'
-    Night: '#000F1620'
+    Night: '#0000152F'
   Alphas:
     Sunrise: 0.2
     Day: 0.2
@@ -532,22 +532,36 @@ SunDamage: 0.2
 PrecipitationBeginFadeIn: 0.6
 PrecipitationEndFadeOut: 0.403921568627451
 ThunderLightningEndFadeOut: 1
-ThunderLightningFrequency: 1
+ThunderLightningFrequency: 0.9921568627450981
 Flags:
 - Rainy
 LightningColor: '#00DBDCEE'
 WindDirection: 0.119444445
 WindDirectionRange: 0.23888889
 Sounds:
+- Sound: 1D3AAB:Azurite Weathers II.esp
+  Type:
+  - Default
+  - Precipitation
 - Sound: 1D3AA4:Azurite Weathers II.esp
   Type:
   - Default
-- Sound: 000800:rainsong.esp
+- Sound: 03E602:Skyrim.esm
+  Type:
+  - Precipitation
+- Sound: 000805:rainsong.esp
   Type:
   - Default
 - Sound: 1D3AA7:Azurite Weathers II.esp
   Type:
   - Default
+- Sound: 1D3AAD:Azurite Weathers II.esp
+  Type:
+  - Default
+- Sound: 1D3AB3:Azurite Weathers II.esp
+  Type:
+  - Default
+  - Precipitation
 SkyStatics:
 - 01751E:Skyrim.esm
 - 01751F:Skyrim.esm
@@ -694,15 +708,15 @@ SkyStatics:
 - 10C4D1:Skyrim.esm
 - 10C4D2:Skyrim.esm
 ImageSpaces:
-  Sunrise: 173741:Azurite Weathers II.esp
-  Day: 173741:Azurite Weathers II.esp
-  Sunset: 173741:Azurite Weathers II.esp
-  Night: 0B3043:Azurite Weathers II.esp
+  Sunrise: 0008EF:Azurite II - Weathers Expansion.esp
+  Day: 0008F0:Azurite II - Weathers Expansion.esp
+  Sunset: 0008F1:Azurite II - Weathers Expansion.esp
+  Night: 0008F2:Azurite II - Weathers Expansion.esp
 VolumetricLighting:
-  Sunrise: 1C984E:Azurite Weathers II.esp
-  Day: 1C9850:Azurite Weathers II.esp
-  Sunset: 1C984E:Azurite Weathers II.esp
-  Night: 1C9850:Azurite Weathers II.esp
+  Sunrise: 0008EB:Azurite II - Weathers Expansion.esp
+  Day: 0008EC:Azurite II - Weathers Expansion.esp
+  Sunset: 0008ED:Azurite II - Weathers Expansion.esp
+  Night: 0008EE:Azurite II - Weathers Expansion.esp
 DirectionalAmbientLightingColors:
   Sunrise:
     DirectionalXPlus: '#00323C58'
@@ -740,3 +754,6 @@ DirectionalAmbientLightingColors:
     DirectionalZMinus: '#0027364E'
     Specular: '#00FFB595'
     Scale: 1
+Aurora:
+  File: Sky\SkyrimAuroraRY.nif
+  Data: 0x020000000000000000000000

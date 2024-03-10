@@ -52,7 +52,7 @@ Weather:
     Chance: 5
   - Weather: 000812:Azurite II - Weathers Expansion.esp
     Global: 1D8BC9:Azurite Weathers II.esp
-  - Weather: 000813:rainsong_azurite_expansion.esp
+  - Weather: 000803:rainsong_azurite_expansion.esp
     Global: 238EDC:Azurite Weathers II.esp
   - Weather: 00080B:rainsong_azurite_expansion.esp
     Chance: 1

@@ -455,7 +455,7 @@ FogNearColor:
   Sunrise: '#00164669'
   Day: '#0028516C'
   Sunset: '#002C353F'
-  Night: '#000A0B0C'
+  Night: '#1D282E'
 UnknownColor:
   Sunrise: '#004E4D42'
   Day: '#00BFCAC6'
@@ -470,7 +470,7 @@ SunlightColor:
   Sunrise: '#00808895'
   Day: '#00808080'
   Sunset: '#00808895'
-  Night: '#00000000'
+  Night: '#001F2630'
 SunColor:
   Sunrise: '#00433112'
   Day: '#0081696B'
@@ -554,7 +554,7 @@ VisualEffectEnd: 0.4980392156862745
 WindDirection: 0.18611111
 WindDirectionRange: 0.23888889
 Sounds:
-- Sound: 000811:rainsong.esp
+- Sound: 000800:rainsong.esp
   Type:
   - Default
 - Sound: 1D3AA7:Azurite Weathers II.esp
@@ -675,37 +675,37 @@ VolumetricLighting:
   Night: 0008EE:Azurite II - Weathers Expansion.esp
 DirectionalAmbientLightingColors:
   Sunrise:
-    DirectionalXPlus: '#00282B2D'
-    DirectionalXMinus: '#00373A3C'
-    DirectionalYPlus: '#00282B2D'
-    DirectionalYMinus: '#00282B2D'
+    DirectionalXPlus: '#002F3738'
+    DirectionalXMinus: '#002F3738'
+    DirectionalYPlus: '#002F3738'
+    DirectionalYMinus: '#002F3738'
     DirectionalZPlus: '#001A2626'
     DirectionalZMinus: '#004E5B5C'
     Specular: '#00000000'
     Scale: 1
   Day:
-    DirectionalXPlus: '#00595851'
-    DirectionalXMinus: '#00595851'
-    DirectionalYPlus: '#00595851'
-    DirectionalYMinus: '#00595851'
+    DirectionalXPlus: '#006E6E67'
+    DirectionalXMinus: '#006E6E67'
+    DirectionalYPlus: '#006E6E67'
+    DirectionalYMinus: '#006E6E67'
     DirectionalZPlus: '#00474641'
     DirectionalZMinus: '#00C2C2BC'
     Specular: '#00000000'
     Scale: 1
   Sunset:
-    DirectionalXPlus: '#00554D50'
-    DirectionalXMinus: '#003C3E41'
-    DirectionalYPlus: '#003C3E41'
-    DirectionalYMinus: '#003C3E41'
+    DirectionalXPlus: '#004D4D5B'
+    DirectionalXMinus: '#004D4D5B'
+    DirectionalYPlus: '#004D4D5B'
+    DirectionalYMinus: '#004D4D5B'
     DirectionalZPlus: '#002A2432'
     DirectionalZMinus: '#00888FB4'
     Specular: '#00000000'
     Scale: 1
   Night:
-    DirectionalXPlus: '#00090C0D'
-    DirectionalXMinus: '#00090C0D'
-    DirectionalYPlus: '#00090C0D'
-    DirectionalYMinus: '#00090C0D'
+    DirectionalXPlus: '#000D1113'
+    DirectionalXMinus: '#000D1113'
+    DirectionalYPlus: '#000D1113'
+    DirectionalYMinus: '#000D1113'
     DirectionalZPlus: '#00090C0D'
     DirectionalZMinus: '#001A2126'
     Specular: '#00000000'

@@ -513,7 +513,7 @@ FogFarColor:
   Sunrise: '#00373D48'
   Day: '#006A6A6A'
   Sunset: '#00697085'
-  Night: '#000B0D0F'
+  Night: '#001A1C1E'
 SkyStaticsColor:
   Sunrise: '#006B696B'
   Day: '#007A7A7A'
@@ -535,18 +535,18 @@ MoonGlareColor:
   Sunset: '#00000000'
   Night: '#00000000'
 FogDistanceDayFar: 100000
-FogDistanceNightFar: 30000
+FogDistanceNightFar: 100000
 FogDistanceDayPower: 0.3
-FogDistanceNightPower: 0.22
+FogDistanceNightPower: 0.3
 FogDistanceDayMax: 0.9
-FogDistanceNightMax: 0.97
+FogDistanceNightMax: 0.9
 WindSpeed: 0.10196078431372549
 TransDelta: 680
 SunDamage: 0.23529411764705882
 PrecipitationBeginFadeIn: 0.6
 PrecipitationEndFadeOut: 0.403921568627451
 ThunderLightningEndFadeOut: 1
-ThunderLightningFrequency: 0.9647058823529412
+ThunderLightningFrequency: 0.16470588235294117
 Flags:
 - Rainy
 LightningColor: '#00DBDCEE'

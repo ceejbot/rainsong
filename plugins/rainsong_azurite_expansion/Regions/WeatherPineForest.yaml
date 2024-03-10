@@ -118,6 +118,14 @@ Weather:
     Global: 238EDC:Azurite Weathers II.esp
   - Weather: 014D85:Azurite II - Weathers Expansion.esp
     Chance: 5
+  - Weather: 01EF9A:Azurite II - Weathers Expansion.esp
+    Chance: 10
+  - Weather: 01EF9B:Azurite II - Weathers Expansion.esp
+    Chance: 10
+  - Weather: 01EF9C:Azurite II - Weathers Expansion.esp
+    Chance: 10
+  - Weather: 01EF9D:Azurite II - Weathers Expansion.esp
+    Chance: 10
 Sounds:
   Priority: 50
   Music: 06D546:Skyrim.esm

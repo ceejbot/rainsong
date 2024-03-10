@@ -1,5 +1,6 @@
-FormKey: 000818:rainsong_azurite_expansion.esp
-EditorID: BBTStormRainAWII_Town
+FormKey: 000805:rainsong_azurite_expansion.esp
+EditorID: BBTStormRainAWII_VolcanicTundra
+FormVersion: 43
 CloudTextures:
 - Sky\OblivionCloudCloudyUpper01.dds
 - Sky\WastelandCloudHorizon01.dds
@@ -532,9 +533,6 @@ Sounds:
 - Sound: 1D3AAF:Azurite Weathers II.esp
   Type:
   - Default
-- Sound: 00080D:rainsong.esp
-  Type:
-  - Default
 - Sound: 1D3AA7:Azurite Weathers II.esp
   Type:
   - Default
@@ -553,6 +551,9 @@ Sounds:
   Type:
   - Default
   - Precipitation
+- Sound: 00080F:rainsong.esp
+  Type:
+  - Default
 SkyStatics:
 - 01751E:Skyrim.esm
 - 01751F:Skyrim.esm

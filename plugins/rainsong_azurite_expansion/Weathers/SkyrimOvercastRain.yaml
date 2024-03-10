@@ -517,7 +517,7 @@ MoonGlareColor:
   Sunrise: '#00000000'
   Day: '#00000000'
   Sunset: '#00000000'
-  Night: '#000B2A5D'
+  Night: '#00C6D9F9'
 FogDistanceDayNear: 5000
 FogDistanceDayFar: 320000
 FogDistanceNightNear: 5000
@@ -526,15 +526,16 @@ FogDistanceDayPower: 0.5
 FogDistanceNightPower: 0.5
 FogDistanceDayMax: 1
 FogDistanceNightMax: 1
-WindSpeed: 0.09803921568627451
+WindSpeed: 0.39215686274509803
 TransDelta: 500
-SunDamage: 0.2980392156862745
+SunDamage: 0.2
 PrecipitationBeginFadeIn: 0.6
 PrecipitationEndFadeOut: 0.403921568627451
-ThunderLightningFrequency: 1
+ThunderLightningEndFadeOut: 1
+ThunderLightningFrequency: 0.9921568627450981
 Flags:
 - Rainy
-LightningColor: '#00000000'
+LightningColor: '#00DBDCEE'
 WindDirection: 0.119444445
 WindDirectionRange: 0.23888889
 Sounds:
@@ -699,15 +700,15 @@ SkyStatics:
 - 10C4D1:Skyrim.esm
 - 10C4D2:Skyrim.esm
 ImageSpaces:
-  Sunrise: 173741:Azurite Weathers II.esp
-  Day: 173741:Azurite Weathers II.esp
-  Sunset: 173741:Azurite Weathers II.esp
-  Night: 0B3043:Azurite Weathers II.esp
+  Sunrise: 0008E7:Azurite II - Weathers Expansion.esp
+  Day: 0008E8:Azurite II - Weathers Expansion.esp
+  Sunset: 0008E9:Azurite II - Weathers Expansion.esp
+  Night: 0008EA:Azurite II - Weathers Expansion.esp
 VolumetricLighting:
-  Sunrise: 1C984E:Azurite Weathers II.esp
-  Day: 1C9850:Azurite Weathers II.esp
-  Sunset: 1C984E:Azurite Weathers II.esp
-  Night: 1C9850:Azurite Weathers II.esp
+  Sunrise: 0008EB:Azurite II - Weathers Expansion.esp
+  Day: 0008EC:Azurite II - Weathers Expansion.esp
+  Sunset: 0008ED:Azurite II - Weathers Expansion.esp
+  Night: 0008EE:Azurite II - Weathers Expansion.esp
 DirectionalAmbientLightingColors:
   Sunrise:
     DirectionalXPlus: '#00323C58'

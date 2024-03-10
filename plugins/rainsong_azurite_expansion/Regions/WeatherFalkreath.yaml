@@ -67,8 +67,6 @@ Weather:
     Chance: 5
   - Weather: 000962:Azurite II - Weathers Expansion.esp
     Global: 238EDC:Azurite Weathers II.esp
-  - Weather: 000807:rainsong_azurite_expansion.esp
-    Global: 238EDC:Azurite Weathers II.esp
   - Weather: 014D7C:Azurite II - Weathers Expansion.esp
     Chance: 5
   - Weather: 014D7F:Azurite II - Weathers Expansion.esp
@@ -80,6 +78,16 @@ Weather:
   - Weather: 014D85:Azurite II - Weathers Expansion.esp
     Chance: 5
   - Weather: 014D85:Azurite II - Weathers Expansion.esp
+    Global: 238EDC:Azurite Weathers II.esp
+  - Weather: 01EF9A:Azurite II - Weathers Expansion.esp
+    Chance: 10
+  - Weather: 01EF9B:Azurite II - Weathers Expansion.esp
+    Chance: 10
+  - Weather: 01EF9C:Azurite II - Weathers Expansion.esp
+    Chance: 10
+  - Weather: 01EF9D:Azurite II - Weathers Expansion.esp
+    Chance: 10
+  - Weather: 000804:rainsong_azurite_expansion.esp
     Global: 238EDC:Azurite Weathers II.esp
 Sounds:
   Priority: 50
