@@ -1,12 +1,13 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Skyrim
-  Version: 0.16.0
+  Version: 0.17.0
 ModKey: rainsong.esp
 GameRelease: SkyrimSE
 ModHeader:
   Flags:
   - Light
   Stats:
+    Version: 1.7
     NumRecords: 22
     NextFormID: 2069
   Author: ceejbot @ nexus

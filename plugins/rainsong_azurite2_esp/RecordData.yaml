@@ -1,12 +1,13 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Skyrim
-  Version: 0.16.0
+  Version: 0.17.0
 ModKey: rainsong_azurite2.esp
 GameRelease: SkyrimSE
 ModHeader:
   Flags:
   - Light
   Stats:
+    Version: 1.7
     NumRecords: 33
     NextFormID: 2079
   Author: ''

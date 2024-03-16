@@ -113,11 +113,7 @@ Clouds:
     Day: '#0097ABCA'
     Sunset: '#0097ABCA'
     Night: '#001B1B25'
-  Alphas:
-    Sunrise: 0.15
-    Day: 0.15
-    Sunset: 0.15
-    Night: 0.3
+  Alphas: {}
 - Enabled: True
   XSpeed: 0.02992126
   YSpeed: -0.01023622
@@ -126,11 +122,7 @@ Clouds:
     Day: '#0097ABCA'
     Sunset: '#0097ABCA'
     Night: '#001B1B25'
-  Alphas:
-    Sunrise: 0.15
-    Day: 0.15
-    Sunset: 0.15
-    Night: 0.2
+  Alphas: {}
 - Enabled: True
   XSpeed: 0.02992126
   YSpeed: -0.01023622
@@ -139,11 +131,7 @@ Clouds:
     Day: '#0097ABCA'
     Sunset: '#0097ABCA'
     Night: '#001B1B25'
-  Alphas:
-    Sunrise: 0.15
-    Day: 0.15
-    Sunset: 0.15
-    Night: 0.2
+  Alphas: {}
 - Enabled: True
   XSpeed: 0.013385827
   YSpeed: 0.1
@@ -152,11 +140,7 @@ Clouds:
     Day: '#00546781'
     Sunset: '#00546781'
     Night: '#001B1B25'
-  Alphas:
-    Sunrise: 0.3
-    Day: 0.3
-    Sunset: 0.3
-    Night: 0.3
+  Alphas: {}
 - Enabled: False
   XSpeed: 0
   YSpeed: 0
@@ -202,7 +186,7 @@ Clouds:
     Sunset: '#00000000'
     Night: '#00000000'
   Alphas: {}
-- Enabled: True
+- Enabled: False
   XSpeed: 0
   YSpeed: 0
   Colors:
@@ -210,9 +194,8 @@ Clouds:
     Day: '#00AAD0FF'
     Sunset: '#00AAAAAA'
     Night: '#00070712'
-  Alphas:
-    Night: 0.2
-- Enabled: False
+  Alphas: {}
+- Enabled: True
   XSpeed: 0.02519685
   YSpeed: 0
   Colors:
@@ -257,27 +240,25 @@ Clouds:
     Sunset: '#00000000'
     Night: '#00000000'
   Alphas: {}
-- Enabled: True
-  XSpeed: 0
-  YSpeed: 0
-  Colors:
-    Sunrise: '#00AAAAAA'
-    Day: '#00AAD0FF'
-    Sunset: '#00AAAAAA'
-    Night: '#00070712'
-  Alphas:
-    Night: 0.2
-- Enabled: True
-  XSpeed: 0
-  YSpeed: 0
-  Colors:
-    Sunrise: '#00AAAAAA'
-    Day: '#00AAD0FF'
-    Sunset: '#00AAAAAA'
-    Night: '#00070712'
-  Alphas:
-    Night: 0.2
 - Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#00AAAAAA'
+    Day: '#00AAD0FF'
+    Sunset: '#00AAAAAA'
+    Night: '#00070712'
+  Alphas: {}
+- Enabled: False
+  XSpeed: 0
+  YSpeed: 0
+  Colors:
+    Sunrise: '#00AAAAAA'
+    Day: '#00AAD0FF'
+    Sunset: '#00AAAAAA'
+    Night: '#00070712'
+  Alphas: {}
+- Enabled: True
   XSpeed: 0.02519685
   YSpeed: 0
   Colors:
@@ -286,7 +267,7 @@ Clouds:
     Sunset: '#00000000'
     Night: '#00000000'
   Alphas: {}
-- Enabled: False
+- Enabled: True
   XSpeed: 0.02519685
   YSpeed: 0
   Colors:
@@ -303,9 +284,8 @@ Clouds:
     Day: '#00000000'
     Sunset: '#00000000'
     Night: '#0011111A'
-  Alphas:
-    Night: 0.3
-- Enabled: False
+  Alphas: {}
+- Enabled: True
   XSpeed: 0
   YSpeed: 0
   Colors:
@@ -428,10 +408,10 @@ SkyStaticsColor:
   Sunset: '#00475563'
   Night: '#000A0A0C'
 WaterMultiplierColor:
-  Sunrise: '#00546781'
-  Day: '#00546781'
-  Sunset: '#00546781'
-  Night: '#0012121A'
+  Sunrise: '#00969696'
+  Day: '#00969696'
+  Sunset: '#00646464'
+  Night: '#00323232'
 SunGlareColor:
   Sunrise: '#001F1F1F'
   Day: '#001F1F1F'
@@ -441,7 +421,7 @@ MoonGlareColor:
   Sunrise: '#00000000'
   Day: '#00000000'
   Sunset: '#00000000'
-  Night: '#0058AEFF'
+  Night: '#000B2A5D'
 FogDistanceDayFar: 15000
 FogDistanceNightFar: 15000
 FogDistanceDayPower: 0.6
@@ -465,18 +445,6 @@ Sounds:
   - Default
   - Precipitation
 - Sound: 1D3A98:Azurite Weathers II.esp
-  Type:
-  - Default
-  - Precipitation
-- Sound: 1D3AA8:Azurite Weathers II.esp
-  Type:
-  - Default
-  - Precipitation
-- Sound: 1D3AA9:Azurite Weathers II.esp
-  Type:
-  - Default
-  - Precipitation
-- Sound: 1D3AAA:Azurite Weathers II.esp
   Type:
   - Default
   - Precipitation
@@ -513,18 +481,6 @@ Sounds:
 - Sound: 1D3AAD:Azurite Weathers II.esp
   Type:
   - Default
-- Sound: 1D3AB1:Azurite Weathers II.esp
-  Type:
-  - Default
-  - Precipitation
-- Sound: 1D3AB2:Azurite Weathers II.esp
-  Type:
-  - Default
-  - Precipitation
-- Sound: 1D3AB3:Azurite Weathers II.esp
-  Type:
-  - Default
-  - Precipitation
 SkyStatics:
 - 01751E:Skyrim.esm
 - 01751F:Skyrim.esm

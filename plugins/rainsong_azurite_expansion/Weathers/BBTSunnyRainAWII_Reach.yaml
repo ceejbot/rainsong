@@ -554,7 +554,7 @@ VisualEffectEnd: 0.4980392156862745
 WindDirection: 0.18611111
 WindDirectionRange: 0.23888889
 Sounds:
-- Sound: 000814:rainsong.esp
+- Sound: 000804:rainsong.esp
   Type:
   - Default
 - Sound: 1D3AA7:Azurite Weathers II.esp
