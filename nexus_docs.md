@@ -1,4 +1,10 @@
-A Skyrim mod that extends [Azurite II weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731), [Azurite Weathers II -- Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/111269), and [RAID weathers](https://www.nexusmods.com/skyrimspecialedition/mods/63116) to enhance rain sounds with regional variations as well as intensity variations.
+A Skyrim mod that extends several different weather mods to enhance rain sounds with regional variations as well as intensity variations. It currently supports these weather mods:
+
+- [Azurite II weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731)
+- [Azurite Weathers II -- Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/111269)
+- [Picturesque weathers](https://www.nexusmods.com/skyrimspecialedition/mods/32364)
+- [Pomegranate weathers](https://www.nexusmods.com/skyrimspecialedition/mods/88008)
+- [RAID weathers](https://www.nexusmods.com/skyrimspecialedition/mods/63116)
 
 I love the sound of rain in Skyrim. I love sheltering in a tent, lighting a campfire, and waiting out a storm. But it never sounds right to me! I decided to do something about it. The new rain loops were synthesized with a VST plugin. They're all 8 seconds long and stereo. They make a great base for layering on field recordings of thunder, wind, and closer-range rain sounds.
 
