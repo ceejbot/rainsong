@@ -1,5 +1,5 @@
-FormKey: 000801:rainsong_raid.esp
-EditorID: Rainsong_Raid_Drizzle_Solitude
+FormKey: 000808:rainsong_raid.esp
+EditorID: SkyrimStormRain_Markarth
 CloudTextures:
 - Sky\SkyrimClouds02.dds
 - Sky\WastelandCloudHorizon02.dds
@@ -31,7 +31,7 @@ CloudTextures:
 - Sky\SkyrimCloudsLower03.dds
 - Sky\SkyrimCloudsFill.dds
 LNAM: 0x1D000000
-Precipitation: 0A6619:RAID Weathers.esp
+Precipitation: 10780F:Skyrim.esm
 Clouds:
 - Enabled: False
   XSpeed: 0
@@ -141,54 +141,54 @@ Clouds:
   XSpeed: 0.04015748
   YSpeed: -0.01023622
   Colors:
-    Sunrise: '#003B464B'
-    Day: '#00151515'
-    Sunset: '#004B5258'
-    Night: '#0007090B'
+    Sunrise: '#002D3337'
+    Day: '#0028292A'
+    Sunset: '#002E3031'
+    Night: '#00030405'
   Alphas:
-    Sunrise: 0.2
-    Day: 0.2
-    Sunset: 0.2
-    Night: 0.07
+    Sunrise: 0.8
+    Day: 1
+    Sunset: 0.5
+    Night: 0.5
 - Enabled: True
   XSpeed: 0.04015748
   YSpeed: -0.01023622
   Colors:
-    Sunrise: '#003B464B'
-    Day: '#00151515'
-    Sunset: '#004B5258'
-    Night: '#0007090B'
+    Sunrise: '#002D3337'
+    Day: '#0028292A'
+    Sunset: '#002E3031'
+    Night: '#00030405'
   Alphas:
-    Sunrise: 0.2
-    Day: 0.2
-    Sunset: 0.2
-    Night: 0.07
+    Sunrise: 0.8
+    Day: 1
+    Sunset: 0.5
+    Night: 0.5
 - Enabled: True
   XSpeed: 0.04015748
   YSpeed: -0.01023622
   Colors:
-    Sunrise: '#003B464B'
-    Day: '#00151515'
-    Sunset: '#004B5258'
-    Night: '#0007090B'
+    Sunrise: '#002D3337'
+    Day: '#0028292A'
+    Sunset: '#002E3031'
+    Night: '#00030405'
   Alphas:
-    Sunrise: 0.2
-    Day: 0.2
-    Sunset: 0.2
-    Night: 0.07
+    Sunrise: 0.8
+    Day: 1
+    Sunset: 0.5
+    Night: 0.5
 - Enabled: True
   XSpeed: -0.03464567
   YSpeed: 0.01023622
   Colors:
-    Sunrise: '#003B464B'
-    Day: '#00151515'
-    Sunset: '#00424A55'
-    Night: '#0007090B'
+    Sunrise: '#002D3337'
+    Day: '#0028292A'
+    Sunset: '#002E3031'
+    Night: '#00030405'
   Alphas:
-    Sunrise: 0.2
-    Day: 0.2
-    Sunset: 0.18
-    Night: 0.1
+    Sunrise: 0.8
+    Day: 1
+    Sunset: 0.5
+    Night: 0.5
 - Enabled: False
   XSpeed: 0
   YSpeed: 0
@@ -271,15 +271,15 @@ Clouds:
   XSpeed: 0.02519685
   YSpeed: 0
   Colors:
-    Sunrise: '#00272C38'
-    Day: '#00151515'
-    Sunset: '#00454A50'
-    Night: '#000B0C0D'
+    Sunrise: '#002B3235'
+    Day: '#0028292A'
+    Sunset: '#0028292A'
+    Night: '#00060708'
   Alphas:
-    Sunrise: 0.2
-    Day: 0.2
-    Sunset: 0.25
-    Night: 0.08
+    Sunrise: 0.8
+    Day: 0.5
+    Sunset: 0.5
+    Night: 0.2
 - Enabled: False
   XSpeed: 0
   YSpeed: 0
@@ -362,50 +362,54 @@ Clouds:
   XSpeed: 0.02519685
   YSpeed: 0
   Colors:
-    Sunrise: '#00272C38'
-    Day: '#00151515'
-    Sunset: '#0043484E'
-    Night: '#000B0C0D'
+    Sunrise: '#002B3235'
+    Day: '#0028292A'
+    Sunset: '#0028292A'
+    Night: '#00060708'
   Alphas:
-    Sunrise: 0.2
-    Day: 0.2
-    Sunset: 0.25
-    Night: 0.08
+    Sunrise: 0.8
+    Day: 0.5
+    Sunset: 0.5
+    Night: 0.2
 - Enabled: True
   XSpeed: 0.02519685
   YSpeed: 0
   Colors:
-    Sunrise: '#00272C38'
-    Day: '#00151515'
-    Sunset: '#0043484E'
-    Night: '#000B0C0D'
+    Sunrise: '#002B3235'
+    Day: '#0028292A'
+    Sunset: '#0028292A'
+    Night: '#00060708'
   Alphas:
-    Sunrise: 0.2
-    Day: 0.2
-    Sunset: 0.25
-    Night: 0.08
+    Sunrise: 0.8
+    Day: 0.5
+    Sunset: 0.5
+    Night: 0.2
 - Enabled: True
   XSpeed: -0.02519685
   YSpeed: 0.01023622
   Colors:
-    Sunrise: '#003B464B'
-    Day: '#00151515'
-    Sunset: '#002E4B7B'
-    Night: '#0007090B'
+    Sunrise: '#002D3337'
+    Day: '#0028292A'
+    Sunset: '#002D2D2D'
+    Night: '#00030507'
   Alphas:
-    Sunrise: 0.2
-    Day: 0.5
-    Sunset: 0.2
-    Night: 0.15
+    Sunrise: 0.8
+    Day: 1
+    Sunset: 0.4
+    Night: 0.6
 - Enabled: True
   XSpeed: 0
   YSpeed: 0
   Colors:
-    Sunrise: '#001B1D24'
-    Day: '#002C2A2D'
-    Sunset: '#0041465A'
-    Night: '#000D1114'
-  Alphas: {}
+    Sunrise: '#00212627'
+    Day: '#00171717'
+    Sunset: '#00171613'
+    Night: '#00020506'
+  Alphas:
+    Sunrise: 0.4
+    Day: 0.4
+    Sunset: 0.5
+    Night: 0.4
 - Enabled: False
   XSpeed: 0
   YSpeed: 0
@@ -446,32 +450,32 @@ Clouds:
     Sunset: 1
     Night: 1
 SkyUpperColor:
-  Sunrise: '#00737E8C'
-  Day: '#006A6A6A'
-  Sunset: '#0050586C'
-  Night: '#000D1012'
+  Sunrise: '#001E2022'
+  Day: '#00353535'
+  Sunset: '#001C1C1C'
+  Night: '#00060809'
 FogNearColor:
-  Sunrise: '#0010161B'
-  Day: '#002A2A2A'
-  Sunset: '#001F1E24'
-  Night: '#000F1012'
+  Sunrise: '#0030373C'
+  Day: '#00292A2B'
+  Sunset: '#003D322E'
+  Night: '#00020709'
 UnknownColor:
   Sunrise: '#00000000'
   Day: '#00000000'
   Sunset: '#00000000'
   Night: '#00000000'
 AmbientColor:
-  Sunrise: '#001D2123'
-  Day: '#004B4E4E'
-  Sunset: '#00242E31'
-  Night: '#000B0E13'
+  Sunrise: '#00272B2D'
+  Day: '#00353637'
+  Sunset: '#00202B2E'
+  Night: '#000A0B0C'
 SunlightColor:
-  Sunrise: '#00282D31'
-  Day: '#00373734'
-  Sunset: '#00484E62'
-  Night: '#00060A0F'
+  Sunrise: '#000A0B0C'
+  Day: '#00080808'
+  Sunset: '#00050607'
+  Night: '#00010203'
 SunColor:
-  Sunrise: '#00BFBFBF'
+  Sunrise: '#00000000'
   Day: '#00000000'
   Sunset: '#00000000'
   Night: '#00000000'
@@ -481,20 +485,20 @@ StarsColor:
   Sunset: '#00000000'
   Night: '#00000000'
 SkyLowerColor:
-  Sunrise: '#00393D46'
-  Day: '#00949494'
-  Sunset: '#0070738A'
-  Night: '#000D0F11'
+  Sunrise: '#00282B2D'
+  Day: '#00464646'
+  Sunset: '#001E1E1E'
+  Night: '#00050607'
 HorizonColor:
-  Sunrise: '#002E323D'
-  Day: '#003F3F3F'
-  Sunset: '#006E708F'
-  Night: '#000C0F12'
+  Sunrise: '#00323232'
+  Day: '#00191919'
+  Sunset: '#00161514'
+  Night: '#00050607'
 EffectLightingColor:
-  Sunrise: '#007D8FAC'
-  Day: '#00C4C4C4'
-  Sunset: '#00787878'
-  Night: '#000F1B25'
+  Sunrise: '#005B5D5A'
+  Day: '#006E6E6E'
+  Sunset: '#00464646'
+  Night: '#00030507'
 CloudLodDiffuseColor:
   Sunrise: '#00000000'
   Day: '#00000000'
@@ -506,20 +510,20 @@ CloudLodAmbientColor:
   Sunset: '#00000000'
   Night: '#00000000'
 FogFarColor:
-  Sunrise: '#00373D48'
-  Day: '#006A6A6A'
-  Sunset: '#00697085'
-  Night: '#000B0D0F'
+  Sunrise: '#0042484A'
+  Day: '#00484A4A'
+  Sunset: '#00262626'
+  Night: '#00040506'
 SkyStaticsColor:
-  Sunrise: '#006B696B'
-  Day: '#007A7A7A'
-  Sunset: '#00565758'
-  Night: '#000D1216'
+  Sunrise: '#00555355'
+  Day: '#0057595C'
+  Sunset: '#002D3133'
+  Night: '#00060809'
 WaterMultiplierColor:
-  Sunrise: '#00555B64'
-  Day: '#0050565A'
-  Sunset: '#006A7795'
-  Night: '#000F141A'
+  Sunrise: '#004F545B'
+  Day: '#005A505A'
+  Sunset: '#00505A5A'
+  Night: '#00000609'
 SunGlareColor:
   Sunrise: '#00000000'
   Day: '#00000000'
@@ -530,30 +534,44 @@ MoonGlareColor:
   Day: '#00000000'
   Sunset: '#00000000'
   Night: '#00000000'
-FogDistanceDayFar: 100000
-FogDistanceNightFar: 30000
+FogDistanceDayFar: 25000
+FogDistanceNightFar: 12500
 FogDistanceDayPower: 0.3
-FogDistanceNightPower: 0.22
-FogDistanceDayMax: 0.9
-FogDistanceNightMax: 0.97
-WindSpeed: 0.10196078431372549
-TransDelta: 680
-SunDamage: 0.23529411764705882
+FogDistanceNightPower: 0.35
+FogDistanceDayMax: 0.85
+FogDistanceNightMax: 0.9
+WindSpeed: 0.4980392156862745
+TransDelta: 880
+SunDamage: 0.09803921568627451
 PrecipitationBeginFadeIn: 0.6
 PrecipitationEndFadeOut: 0.403921568627451
 ThunderLightningEndFadeOut: 1
-ThunderLightningFrequency: 0.9647058823529412
+ThunderLightningFrequency: 0.39215686274509803
 Flags:
 - Rainy
-LightningColor: '#00DBDCEE'
+- SkyStaticsAlwaysVisible
+LightningColor: '#00E1D2FF'
 WindDirection: 0.119444445
 WindDirectionRange: 0.23888889
 Sounds:
-- Sound: 000811:rainsong.esp
+- Sound: 000808:rainsong.esp
   Type:
   - Default
-- Sound: 0A661F:RAID Weathers.esp
+- Sound: 0A6658:RAID Weathers.esp
   Type:
+  - Default
+  - Precipitation
+- Sound: 0A6659:RAID Weathers.esp
+  Type:
+  - Default
+  - Precipitation
+- Sound: 0A665A:RAID Weathers.esp
+  Type:
+  - Default
+  - Precipitation
+- Sound: 0A665B:RAID Weathers.esp
+  Type:
+  - Default
   - Precipitation
 SkyStatics:
 - 01751E:Skyrim.esm
@@ -701,49 +719,51 @@ SkyStatics:
 - 10C4D1:Skyrim.esm
 - 10C4D2:Skyrim.esm
 ImageSpaces:
-  Sunrise: 02733E:RAID Weathers.esp
-  Day: 02733C:RAID Weathers.esp
-  Sunset: 02733D:RAID Weathers.esp
-  Night: 02733F:RAID Weathers.esp
+  Sunrise: 0C8216:Skyrim.esm
+  Day: 0C8217:Skyrim.esm
+  Sunset: 0C8218:Skyrim.esm
+  Night: 0C8219:Skyrim.esm
 VolumetricLighting:
-  Sunrise: 000D5F:Update.esm
-  Day: 000D5D:Update.esm
-  Sunset: 000D60:Update.esm
-  Night: 000D5E:Update.esm
+  Sunrise: 000D63:Update.esm
+  Day: 000D61:Update.esm
+  Sunset: 000D64:Update.esm
+  Night: 000D62:Update.esm
 DirectionalAmbientLightingColors:
   Sunrise:
-    DirectionalXPlus: '#00282B2D'
-    DirectionalXMinus: '#00282B2D'
-    DirectionalYPlus: '#00282B2D'
-    DirectionalYMinus: '#00282B2D'
-    DirectionalZPlus: '#001A2626'
-    DirectionalZMinus: '#004E5B5C'
+    DirectionalXPlus: '#00282C2D'
+    DirectionalXMinus: '#00282C2D'
+    DirectionalYPlus: '#00282C2D'
+    DirectionalYMinus: '#00282C2D'
+    DirectionalZPlus: '#000D1616'
+    DirectionalZMinus: '#003B4645'
     Specular: '#00000000'
     Scale: 1
   Day:
-    DirectionalXPlus: '#00595851'
-    DirectionalXMinus: '#00595851'
-    DirectionalYPlus: '#00595851'
-    DirectionalYMinus: '#00595851'
-    DirectionalZPlus: '#00474641'
-    DirectionalZMinus: '#00C2C2BC'
+    DirectionalXPlus: '#002B2B2B'
+    DirectionalXMinus: '#002B2B2B'
+    DirectionalYPlus: '#002B2B2B'
+    DirectionalYMinus: '#002B2B2B'
+    DirectionalZPlus: '#00282928'
+    DirectionalZMinus: '#00666665'
     Specular: '#00000000'
     Scale: 1
   Sunset:
-    DirectionalXPlus: '#003C3E41'
-    DirectionalXMinus: '#003C3E41'
-    DirectionalYPlus: '#003C3E41'
-    DirectionalYMinus: '#003C3E41'
-    DirectionalZPlus: '#002A2432'
-    DirectionalZMinus: '#00888FB4'
+    DirectionalXPlus: '#00272B2C'
+    DirectionalXMinus: '#00272B2C'
+    DirectionalYPlus: '#00272B2C'
+    DirectionalYMinus: '#00272B2C'
+    DirectionalZPlus: '#00191B1D'
+    DirectionalZMinus: '#00444A4C'
     Specular: '#00000000'
     Scale: 1
   Night:
-    DirectionalXPlus: '#00090C0D'
-    DirectionalXMinus: '#00090C0D'
-    DirectionalYPlus: '#00090C0D'
-    DirectionalYMinus: '#00090C0D'
-    DirectionalZPlus: '#00090C0D'
-    DirectionalZMinus: '#001A2126'
+    DirectionalXPlus: '#00080A0B'
+    DirectionalXMinus: '#00080A0B'
+    DirectionalYPlus: '#00080A0B'
+    DirectionalYMinus: '#00080A0B'
+    DirectionalZPlus: '#0007090A'
+    DirectionalZMinus: '#000A1319'
     Specular: '#00000000'
     Scale: 1
+Aurora:
+  File: Sky\heavystormsky.nif

@@ -384,10 +384,10 @@ Clouds:
   XSpeed: -0.02992126
   YSpeed: 0.01023622
   Colors:
-    Sunrise: '#00000000'
-    Day: '#00000000'
-    Sunset: '#00000000'
-    Night: '#000D0D1E'
+    Sunrise: '#00090C0D'
+    Day: '#00475763'
+    Sunset: '#00020C12'
+    Night: '#00090B0D'
   Alphas:
     Sunrise: 0.5
     Day: 0.3
@@ -397,11 +397,15 @@ Clouds:
   XSpeed: 0
   YSpeed: 0
   Colors:
-    Sunrise: '#0053657D'
-    Day: '#0053657D'
-    Sunset: '#0053657D'
-    Night: '#000C0C1B'
-  Alphas: {}
+    Sunrise: '#00131A0C'
+    Day: '#005C6B78'
+    Sunset: '#000F2024'
+    Night: '#000F1011'
+  Alphas:
+    Sunrise: 0.4
+    Day: 0.4
+    Sunset: 0.4
+    Night: 0.4
 - Enabled: False
   XSpeed: 0
   YSpeed: 0
@@ -526,14 +530,12 @@ MoonGlareColor:
   Day: '#00000000'
   Sunset: '#00000000'
   Night: '#00000000'
-FogDistanceDayNear: 5000
-FogDistanceDayFar: 40000
-FogDistanceNightNear: 5000
-FogDistanceNightFar: 80000
-FogDistanceDayPower: 0.7
-FogDistanceNightPower: 0.7
-FogDistanceDayMax: 1
-FogDistanceNightMax: 1
+FogDistanceDayFar: 200000
+FogDistanceNightFar: 50000
+FogDistanceDayPower: 0.3
+FogDistanceNightPower: 0.3
+FogDistanceDayMax: 0.95
+FogDistanceNightMax: 0.95
 WindSpeed: 0.09803921568627451
 TransDelta: 680
 SunGlare: 0.1568627450980392

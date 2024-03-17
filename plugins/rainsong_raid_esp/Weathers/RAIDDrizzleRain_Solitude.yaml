@@ -1,5 +1,5 @@
-FormKey: 000800:rainsong_raid.esp
-EditorID: Rainsong_Raid_Drizzle_Marsh
+FormKey: 000801:rainsong_raid.esp
+EditorID: RAIDDrizzleRain_Solitude
 CloudTextures:
 - Sky\SkyrimClouds02.dds
 - Sky\WastelandCloudHorizon02.dds
@@ -549,7 +549,7 @@ LightningColor: '#00DBDCEE'
 WindDirection: 0.119444445
 WindDirectionRange: 0.23888889
 Sounds:
-- Sound: 000813:rainsong.esp
+- Sound: 000811:rainsong.esp
   Type:
   - Default
 - Sound: 0A661F:RAID Weathers.esp

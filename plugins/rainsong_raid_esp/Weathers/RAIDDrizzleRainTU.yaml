@@ -405,7 +405,11 @@ Clouds:
     Day: '#002C2A2D'
     Sunset: '#0041465A'
     Night: '#000D1114'
-  Alphas: {}
+  Alphas:
+    Sunrise: 0.4
+    Day: 0.4
+    Sunset: 0.5
+    Night: 0.2
 - Enabled: False
   XSpeed: 0
   YSpeed: 0
